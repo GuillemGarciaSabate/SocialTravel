@@ -1,0 +1,153 @@
+*{
+	font-size: 13px;
+	font-family: sans-serif;
+}
+
+.main_header,footer
+{
+	width:100%;
+    float: left;
+    padding:6px 0;
+}
+
+.site-logo a
+{
+	display:block;
+	color: white;
+	font-size: 24px;
+	font-weight:bold;
+}
+
+.main_header
+{
+    background-color: #26545E;
+    height: 80px;
+}
+
+footer
+{
+	text-align:right;
+    background-color: #26545E;
+}
+
+footer a
+{
+	margin:0 6px;
+	color:white;
+}
+
+#success
+{
+	color: white;
+	font-size: 20px;
+	font-weight:bold;
+	padding: 8px; 
+	text-shadow: 0px 1px 1px rgba(0,0,0,0.35);
+	border:2px solid #3bb02b;
+	border-radius:8px;
+	background-color:#90DE95;
+}
+
+#wrapper
+{
+    width: 100%;
+    float: left;
+}
+
+.block
+{
+	position:relative;
+	float:left;
+	background-color:#DAEAEB;
+	border:2px solid #84BCBF;
+	border-radius:8px;
+	margin-right:12px;
+}
+
+.block:last-child
+{
+	margin-right:0;
+}
+
+.block h2
+{
+	font-size:16px;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+	color: #26545E;
+	text-shadow: 0px 1px 1px rgba(255,255,255,0.5);
+}
+
+.inner-block
+{
+	padding:16px 12px;
+}
+
+.inner-block table
+{
+	width:100%;
+}
+
+.inner-block td
+{
+	width:50%
+}
+
+.clear
+{
+	content:"";
+	padding-top:24px;
+	clear:left;
+}
+
+h3
+{
+    font-size: 200%;
+}
+
+h2
+{
+    font-size: 300%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#viatge
+{
+    float: left;
+    width: 15%;
+    margin-left: 25px;
+}
+
+#viatgeSol, #hash
+{
+    float: left;
+    width: 30%;
+    margin-left: 25px;
+}
+
+#buttons
+{
+    width: 12%;
+    padding-top: 100px;
+    padding-left: 25px;
+    float: left;
+}
+
+#registerform
+{
+    float: left;
+    width: 25%;
+    margin-left: 25px;
+}
+
+#travelform
+{
+    float: left;
+    width: 35%;
+    margin-left: 25px;
+}

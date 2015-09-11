@@ -1,0 +1,64 @@
+body {
+    background-image: url(../imag/Background.jpg);
+    background-size: cover;
+    background-size: 100%;
+    margin:0;
+    padding:0;
+}
+
+.site-logo {
+    float: left;
+    margin-left: 2%;
+}
+
+#access,#register {
+    float: right;
+    margin-top: 1%;
+    margin-right: 5%;
+    border: 1px solid black;
+}
+
+input[type=submit]{
+    background-color: #1E1E1E;
+    color: #979797;
+    height: 24px;
+    padding-left: 10px;
+    float: right;
+    text-transform: uppercase;
+    box-shadow: -1px 2px 0 #6E6B6A inset;
+    border: 0;
+    border-radius: 5px;
+}
+
+input[type=text], input[type=password]
+{
+    background-color: #BFBDBD;
+    border:solid 1px #BFBDBD;
+    color: black;
+    height: 28px;
+    padding-left: 10px;
+    width: 191px;
+    box-shadow: 2px 2px 0 #828181 inset;
+    border: 0;
+    border-radius: 5px;
+}
+
+.errorMessage
+{
+    margin: 0;
+}
+
+#access
+{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: none;
+    font-weight: bold;
+    float: left;
+    margin-left: 35%;
+}
+
+#logins
+{
+    text-align: center;
+}
