@@ -1,15 +1,15 @@
 # SocialTravel
 This is a social network created with PHP
 
-This is a website that I created with my colleges Jordi Badia Iglesias and Arnau Cebrian d'Anguera, we used a Framework from our university, La Salle. The website is capable of:
-1-SignUP new users
-2-SignIn for existing users
-3-Insert, update or delete Travels
-4-View all the travels or yours exclusively
-5-Make searches by hashtag
-6-Search users by Countries visited or by username
-7-Follow users
-8-Other actions to make the expirience more comfortable
+This is a website that I created with my colleges Jordi Badia Iglesias and Arnau Cebrian d'Anguera, we used a Framework from our university, La Salle. The website is capable of:<br /><br />
+1-SignUP new users<br />
+2-SignIn for existing users<br />
+3-Insert, update or delete Travels<br />
+4-View all the travels or only your travels<br />
+5-Make searches by hashtag<br />
+6-Search users by Countries visited or by username<br />
+7-Follow users<br />
+8-Other actions to make the expirience more comfortable<br />
 
 1-
 ![foto1](https://cloud.githubusercontent.com/assets/10881908/9830668/95a85194-5937-11e5-857a-7cdfd0f0361f.png)
