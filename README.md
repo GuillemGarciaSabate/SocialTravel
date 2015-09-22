@@ -11,7 +11,9 @@ This is a website that I created with my colleges Jordi Badia Iglesias and Arnau
 7-Follow users<br />
 8-Other actions to make the expirience more comfortable<br /><br />
 
-This website can handle many types of exceptions such as incorrect characters in some inputs, avoiding in this way posible SQL injections. Also the navigation on it follows a very tidy and logical way, as you can see in the URL. Here are some of the screenshoots.
+See the code on the folder: <b>controllers/project</b>
+
+This website can handle many types of exceptions such as incorrect characters in some inputs, avoiding in this way posible SQL injections. Also the navigation on it follows a very tidy and logical way, as you can see in the URL. Here are few screenshoots.
 
 1-
 ![foto1](https://cloud.githubusercontent.com/assets/10881908/9830668/95a85194-5937-11e5-857a-7cdfd0f0361f.png)
